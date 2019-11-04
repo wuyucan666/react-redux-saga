@@ -25,7 +25,7 @@
     "@icedesign/layout": "^1.x",
     "@icedesign/qrcode": "^1.0.4",
     "@icedesign/theme": "^1.x",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "bizcharts": "^3.2.2",
     "bizgoblin": "0.0.1",
     "braft-editor": "^1.9.8",
