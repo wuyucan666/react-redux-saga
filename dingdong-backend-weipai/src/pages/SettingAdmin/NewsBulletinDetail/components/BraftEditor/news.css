@@ -1,0 +1,4 @@
+.next-col span:nth-child(1){
+  word-break: break-all;
+  white-space: normal;
+}

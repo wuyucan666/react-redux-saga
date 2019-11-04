@@ -1,0 +1,23 @@
+export const COUPON_LIST_EMPTY ='COUPON_LIST_EMPTY' //清空列表
+
+//优惠券列表
+export const COUPON_LIST_REQ = 'COUPON_LIST_REQ';//优惠券列表
+export const COUPON_LIST_RES = 'COUPON_LIST_RES';
+export const COUPON_DETAIL_REQ = 'COUPON_DETAIL_REQ';//优惠券详情
+export const COUPON_DETAIL_RES = 'COUPON_DETAIL_RES';
+export const RECEIVE_COUPON_DETAIL_REQ = 'RECEIVE_COUPON_DETAIL_REQ';//优惠券领取详情
+export const RECEIVE_COUPON_DETAIL_RES = 'RECEIVE_COUPON_DETAIL_RES';
+export const COUPON_HANDLE_REQ = 'COUPON_HANDLE_REQ';//优惠券操作
+export const COUPON_HANDLE_RES = 'COUPON_HANDLE_RES';
+
+//新增发放优惠券
+export const COUPONS_STATE_REQ = 'COUPONS_STATE_REQ';//优惠券状态改变
+export const COUPONS_STATE_RES = 'COUPONS_STATE_RES';
+export const SHOP_DETAIL_REQ = 'SHOP_DETAIL_REQ';//商户详情
+export const SHOP_DETAIL_RES = 'SHOP_DETAIL_RES';
+
+
+
+
+
+
